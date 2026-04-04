@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <title>Currículo - Pedro Moreira Lopes</title>
+</head>
+
+<body>
+    <header id="topo-site">
+        <h1 class="titulo">Pedro Moreira Lopes</h1>
+    </header>
+
+    <div class="informacoes" id="infopessoais">
+        <h2 class="subtitulo" id="subtitulo">Principais Dados Pessoais</h2>
+        <p class="contato">
+            Nome da Mãe: Katia Moreira de Carvalho Lopes
+            26 de Setembro - DF <br>
+            Telefone: (61) 99372-3451 <br>
+            E-mail: <a href="mailto:pedrol220907@gmail.com">pedrol220907@gmail.com</a>
+        </p>
+    </div>
+
+    <div class="objetivo" id="objetivo">
+        <section>
+            <h2>Objetivo Profissional</h2>
+            <p>Busco uma oportunidade para atuar como Desenvolvedor BackEnd Júnior para aplicar e evoluir minhas
+                competências em desenvolvimento de APIs e integração de sistemas, visando o crescimento técnico contínuo
+                e a excelência na resolução de problemas adversos.</p>
+        </section>
+    </div>
+
+    <div class="formacao" id="formacao">
+        <section>
+            <h2>Formação Acadêmica</h2>
+            <p><strong>Ensino Superior - Engenharia de Software (4º Período)</strong><br>
+                Faculdade Católica de Brasília - Cursando</p>
+        </section>
+    </div>
+
+    <div class="cursos" id="cursos">
+        <section>
+            <h2>Cursos Complementares</h2>
+            <ul>
+                <li>Intermediário HTML;</li>
+                <li>Intermediário CSS;</li>
+                <li>Avançado Python;</li>
+                <li>Intermediário/Avançado R;</li>
+                <li>Cibersegurança;</li>
+                <li>Informática Avançada;</li>
+            </ul>
+        </section>
+    </div>
+
+    <div class="experiencia" id="experiencia">
+        <section>
+            <h2>Experiencias Anteriores</h2>
+            <ul>
+                <li>Projetos diversos em (HTML/CSS, Python e C++);</li>
+                <li>Desing de Sites;</li>
+                <li><strong>Não tenho muita experiencias pois estou procuranto uma vaga de primeiro emprego na área.</strong></li>
+            </ul>
+        </section>
+
+    </div>
+
+    <div class="habilidades" id="habilidades">
+        <section>
+            <h2>Habilidades</h2>
+            <ul>
+                <li>Organização e Responsabilidade;</li>
+                <li>Apresentação de Projetos Objetiva e Clara;</li>
+                <li>Ótima Comunicação;</li>
+                <li>Facilidade com tecnologias e Linguagens;</li>
+                <li>Trabalho em equipe;</li>
+                <li>Rápido Aprendizado;</li>
+                <li>Proatividade;</li>
+                <li>Gestão de tempo;</li>
+            </ul>
+        </section>
+    </div>
+
+</body>
+
+</html>
